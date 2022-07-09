@@ -1,0 +1,6 @@
+train: test/crack_test/train
+val: test/crack_test/val
+test: test/crack_test/test
+
+nc: 8
+names: ['alligator_crack', 'block_crack', 'longitudinal_crack', 'pothole', 'reflective_crack', 'sealed_longitudinal_crack', 'sealed_reflective_crack', 'transverse_crack']

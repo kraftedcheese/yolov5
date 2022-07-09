@@ -1,0 +1,6 @@
+train: test/trash_test/train
+val: test/trash_test/val
+test: test/trash_test/test
+
+nc: 15
+names: ['broken_glass', 'can', 'carton', 'cigarette', 'corrugated_carton', 'food_waste', 'glass', 'mask', 'metal', 'other', 'paper', 'plastic', 'plastic_bottle', 'plastic_cup', 'plastic_wrapper']
